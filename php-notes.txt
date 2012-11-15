@@ -1,0 +1,2 @@
+phpinfo = view only
+make the actual changes in php.ini you will have to restart services if you do so. 
